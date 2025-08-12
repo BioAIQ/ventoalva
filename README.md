@@ -32,3 +32,8 @@ usadas nesse estudo.
 | **GSE134900** | Transcriptoma de duodeno de pacientes celíacos antes e depois de dieta sem glúten | RNA-seq    |
 | **GSE72625**  | Microarray de biópsias de intestino delgado                                       | Microarray |
 | **GSE112102** | Expressão gênica em linfócitos intraepiteliais                                    | RNA-seq    |
+
+
+| Complementares                                                 | Descrição                         |
+| ---------------------------------------------------------------| --------------------------------- |
+| **AlphaFold Protein Structure Database** [https://www.alphafold.ebi.ac.uk](https://www.alphafold.ebi.ac.uk) | Predições de estruturas de proteinas |
