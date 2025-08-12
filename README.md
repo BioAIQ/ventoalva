@@ -25,7 +25,7 @@ usadas nesse estudo.
 | **ArrayExpress (EBI)**                                                                                   | Similar ao GEO, também contém experimentos transcriptômicos humanos     |
 | **Human Protein Atlas** [https://www.proteinatlas.org](https://www.proteinatlas.org)                     | Permite ver expressão de genes em tecidos específicos                   |
 | **GTEx** [https://gtexportal.org](https://gtexportal.org)                                                | Transcriptoma de tecidos normais (útil como controle)                   |
-| **Human Cell Atlas** [https://www.humancellatlas.org]                                                    | Atlas de células humans com link para datasets                          |
+| **Human Cell Atlas** [https://www.humancellatlas.org](https://www.humancellatlas.org)                    | Atlas de células humans com link para datasets                          |
 
 | GEO ID        | Descrição                                                                         | Plataforma |
 | ------------- | --------------------------------------------------------------------------------- | ---------- |
