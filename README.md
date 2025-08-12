@@ -19,13 +19,13 @@ usadas nesse estudo.
 | **TAGAP**, **REL**, **TNFAIP3**, **RGS1** | Diversos                                | Participam da ativação e regulação imune, inflamação e apoptose |
 
 
-| Base                                                                                                     | Descrição                                                               |
-| -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| **GEO (Gene Expression Omnibus)** [https://www.ncbi.nlm.nih.gov/geo/](https://www.ncbi.nlm.nih.gov/geo/) | Banco de expressão gênica (microarray e RNA-seq) com dados de pacientes |
-| **ArrayExpress (EBI)**                                                                                   | Similar ao GEO, também contém experimentos transcriptômicos humanos     |
-| **Human Protein Atlas** [https://www.proteinatlas.org](https://www.proteinatlas.org)                     | Permite ver expressão de genes em tecidos específicos                   |
-| **GTEx** [https://gtexportal.org](https://gtexportal.org)                                                | Transcriptoma de tecidos normais (útil como controle)                   |
-| **Human Cell Atlas** [https://www.humancellatlas.org](https://www.humancellatlas.org)                    | Atlas de células humans com link para datasets                          |
+| Base                                                                                                                  | Descrição                                                               |
+| --------------------------------------------------------------------------------------------------------              | ----------------------------------------------------------------------- |
+| **GEO (Gene Expression Omnibus)** [https://www.ncbi.nlm.nih.gov/geo/](https://www.ncbi.nlm.nih.gov/geo/)              | Banco de expressão gênica (microarray e RNA-seq) com dados de pacientes |
+| **ArrayExpress (EBI)** [https://www.ebi.ac.uk/biostudies/arrayexpress](https://www.ebi.ac.uk/biostudies/arrayexpress) | Similar ao GEO, também contém experimentos transcriptômicos humanos     |
+| **Human Protein Atlas** [https://www.proteinatlas.org](https://www.proteinatlas.org)                                  | Permite ver expressão de genes em tecidos específicos                   |
+| **GTEx** [https://gtexportal.org](https://gtexportal.org)                                                             | Transcriptoma de tecidos normais (útil como controle)                   |
+| **Human Cell Atlas** [https://www.humancellatlas.org](https://www.humancellatlas.org)                                 | Atlas de células humans com link para datasets                          |
 
 | GEO ID        | Descrição                                                                         | Plataforma |
 | ------------- | --------------------------------------------------------------------------------- | ---------- |
