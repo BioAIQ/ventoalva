@@ -37,9 +37,3 @@ usadas nesse estudo.
 | Complementares                                                 | Descrição                         |
 | ---------------------------------------------------------------| --------------------------------- |
 | **AlphaFold Protein Structure Database** [https://www.alphafold.ebi.ac.uk](https://www.alphafold.ebi.ac.uk) | Predições de estruturas de proteinas |
-
-
- ## 👥 Equipe
-As mentes por traz de **BioAIQ**:
-- [@lincolmaguiar](https://github.com/lincolmaguiar) – Chief Scientist
-- [@junepa](https://github.com/junepa) – Research Scientist
